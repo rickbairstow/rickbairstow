@@ -15,7 +15,7 @@ I'm a Front End Software Engineer based in the North East of England, working fo
 I'm always open to connecting and collaborating with the talented people in the industry. If you want to reach out or just connect, you can find me on these platforms:
 
 - [Email](rick@rxdesign.co.uk)
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/rick-rx/))
+- [LinkedIn](https://www.linkedin.com/in/rick-rx/)
 - [Twitter](https://twitter.com/Rick_Rx_)
 - [RxDesign](https://www.rxdesign.co.uk) (in need of a heavy revamp 🙈)
 
