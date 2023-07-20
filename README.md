@@ -14,6 +14,9 @@ I'm a Front End Software Engineer based in the North East of England, working fo
 ### Get in Touch
 I'm always open to connecting and collaborating with the talented people in the industry. If you want to reach out or just connect, you can find me on these platforms:
 
-![rick@rxdesign.co.uk](https://img.shields.io/badge/Email-rick@rxdesign.co.uk-BB001B) ![https://www.linkedin.com/in/rick-rx/](https://img.shields.io/badge/LinkedIn-rick--rx-0077b5) ![https://twitter.com/Rick_Rx_](https://img.shields.io/badge/Twitter-Rick__Rx__-1DA1F2) ![https://www.rxdesign.co.uk](https://img.shields.io/badge/Portfolio-RxDesign-orange)
+[![Email](https://img.shields.io/badge/Email-rick@rxdesign.co.uk-BB001B)](mailto:rick@rxdesign.co.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rick--rx-0077b5)](https://www.linkedin.com/in/rick-rx/)
+[![Twitter](https://img.shields.io/badge/Twitter-Rick__Rx__-1DA1F2)](https://twitter.com/Rick_Rx_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-RxDesign-orange)](https://www.rxdesign.co.uk)
 
 Thank you for visiting my profile! 😊
