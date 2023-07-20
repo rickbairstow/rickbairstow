@@ -11,12 +11,6 @@ I'm a Front End Software Engineer based in the North East of England, working fo
 - Version Control: Git
 - Package Managers: npm, Yarn
 
-### My Projects
-Here are some of the projects I've worked on:
-
-- [Project 1](link-to-project-1): A brief description of the project and your role.
-- [Project 2](link-to-project-2): A brief description of the project and your role.
-
 ### Get in Touch
 I'm always open to connecting and collaborating with the talented people in the industry. If you want to reach out or just connect, you can find me on these platforms:
 
