@@ -3,7 +3,7 @@
 ## Hello, I'm Rick Bairstow 👋
 
 ### About Me
-I'm a Front End Software Engineer based in the North East of England, working for an amazing Ecommerce company Visualsoft Ltd. With a passion for building user-friendly and efficient web applications, I specialise in frontend development and have extensive experience with Vue3 and Tailwind CSS. I love anything code related that I can get my hands on with an empasis on visuals, and am an advocate within my company for accessibility and usercentric experiences.
+I'm a Front End Software Engineer based in the North East of England, currently working for an Ecommerce company. I have a passion for building user-friendly and efficient web applications, I specialise in frontend development and have extensive experience with Vue3 and Tailwind CSS, and accessibility. I love anything code related that I can get my hands on with an empasis on visuals, and am an advocate within my company for accessibility and usercentric experiences.
 
 ### Technologies and Tools
 - Programming Languages: JavaScript, TypeScript, HTML, CSS, PHP, + lots more.
