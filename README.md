@@ -3,13 +3,21 @@
 ## Hello, I'm Rick Bairstow 👋
 
 ### About Me
-I'm a Front End Software Engineer based in the North East of England, currently working for an Ecommerce company. I have a passion for building user-friendly and efficient web applications, I specialise in frontend development and have extensive experience with Vue3 and Tailwind CSS, and accessibility. I love anything code related that I can get my hands on with an empasis on visuals, and am an advocate within my company for accessibility and usercentric experiences.
+I'm a passionate Front End Software Engineer and 🥷 Web Ninja 🥷 with a love for mentoring, teaching, and promoting accessibility within the web. Specializing in front-end development, I create user-friendly web applications using HTML, CSS, JavaScript, VueJS, TailwindCSS, PHP, and more. My focus is on delivering intuitive and engaging user experiences that prioritize user journeys, performance, and readable, clean code.
+
+I actively contribute to the community by organizing frontend mentor groups, providing code reviews, engaging in pair programming sessions, and developing frontend training plans. This hands-on involvement allows me to share my expertise and foster growth within the development community.
+
+In addition to my community efforts, I contribute across all aspects of projects, from initial conception and design through to development, rigorous testing, and deployment. By collaborating closely with cross-functional teams, I ensure each project meets client objectives and adheres to industry best practices.
+
+Outside of work, I'm deeply committed to Taekwon-Do 🥋 Holding a 1st Degree black belt and serving as an instructor for NEST Taekwon-do, I mentor both adults and children. Teaching and mentoring in Taekwon-Do are not only passions but also integral parts of my life that contribute to my personal development and well-being.
+
+Feel free to connect with me on LinkedIn to stay updated on my professional journey and learn more about my expertise in front-end development and creating user-centric web experiences.
 
 ### Technologies and Tools
 - Programming Languages: JavaScript, TypeScript, HTML, CSS, PHP, + lots more.
 - Frontend Frameworks: Vue.js, Tailwind CSS, Angular, NUXTJS, + lots more.
 - Version Control: Git
-- Package Managers: npm, Yarn
+- Package Managers: npm, Yarn, Bun
 
 ### Get in Touch
 I'm always open to connecting and collaborating with the talented people in the industry. If you want to reach out or just connect, you can find me on these platforms:
