@@ -3,9 +3,9 @@
 ## Hello, I'm Rick Bairstow 👋
 
 ### About Me
-I'm a passionate Front End Software Engineer and 🥷 Web Ninja 🥷 with a love for mentoring, teaching, and promoting accessibility within the web. Specializing in front-end development, I create user-friendly web applications using HTML, CSS, JavaScript, VueJS, TailwindCSS, PHP, and more. My focus is on delivering intuitive and engaging user experiences that prioritize user journeys, performance, and readable, clean code.
+I'm a passionate Front End Software Engineer and 🥷 Web Ninja 🥷 with a love for mentoring, teaching, and promoting accessibility within the web. Specialising in front-end development, I create user-friendly web applications using HTML, CSS, JavaScript, VueJS, TailwindCSS, PHP, and more. My focus is on delivering intuitive and engaging user experiences that prioritise user journeys, performance, and readable, clean code.
 
-I actively contribute to the community by organizing frontend mentor groups, providing code reviews, engaging in pair programming sessions, and developing frontend training plans. This hands-on involvement allows me to share my expertise and foster growth within the development community.
+I actively contribute to the community by organising frontend mentor groups, providing code reviews, engaging in pair programming sessions, and developing frontend training plans. This hands-on involvement allows me to share my expertise and foster growth within the development community.
 
 In addition to my community efforts, I contribute across all aspects of projects, from initial conception and design through to development, rigorous testing, and deployment. By collaborating closely with cross-functional teams, I ensure each project meets client objectives and adheres to industry best practices.
 
